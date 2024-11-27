@@ -1,0 +1,15 @@
+.commentContainer{
+    width: 100%;
+    height: 50px;
+}
+.commentContainer form{
+    display: flex;
+}
+input{
+    border-radius: 5px;
+    height: 40px;
+}
+
+button{
+    margin-left: 5px;
+}

@@ -1,0 +1,6 @@
+.postlistContainer{
+    margin: 0px 40px;
+}
+.postList{
+    display: flex;
+}
